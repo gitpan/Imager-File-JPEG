@@ -1576,11 +1576,11 @@ http://www.exif.org/
 
 =head1 AUTHOR
 
-Tony Cook <tony@imager.perl.org>
+Tony Cook <tonyc@cpan.org>
 
 =head1 REVISION
 
-$Revision: 1814 $
+$Revision$
 
 =cut
 */
