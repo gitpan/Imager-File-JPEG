@@ -1,6 +1,6 @@
 --- #YAML:1.0
 name:               Imager-File-JPEG
-version:            0.83
+version:            0.84
 abstract:           JPEG Image file support
 author:
     - Tony Cook <tonyc@cpan.org>
