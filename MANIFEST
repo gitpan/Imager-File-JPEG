@@ -17,4 +17,5 @@ testimg/209_yonge.jpg		Regression test: #17981
 testimg/exiftest.jpg		Test image for EXIF parsing
 testimg/scmyk.jpg		Simple CMYK JPEG image
 testimg/zerotype.jpg		Image with a zero type entry in the EXIF data
-META.yml                                 Module meta-data (added by MakeMaker)
+META.yml                                 Module YAML meta-data (added by MakeMaker)
+META.json                                Module JSON meta-data (added by MakeMaker)
